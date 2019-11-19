@@ -8,7 +8,7 @@ const personSchema = mongoose.Schema({
             type: Number,   
         },
         born: {
-            type: Number,   
+            type: String,   
         },
         timeline: {
             type: String,   
